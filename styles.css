@@ -1,6 +1,11 @@
 body {
+<<<<<<< HEAD
+    background: goldenrod;
+    font-family: Cambria;
+=======
 	background:purple;
 	font-family: Arial, Helvetica, sans-serif;
+>>>>>>> 1bf2d5e82b0671551694828e0c9b8a54f088b964
 }
 h1 {
 	color:yellow;
@@ -14,9 +19,16 @@ h1 {
     color:brown;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
-.projects {
-    color: rgb(111, 23, 23);
-    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Georgia, Times, 'Times New Roman', serif;
+.projects { 
+    display:flex; 
+    flex-wrap:wrap;
+ } /* condensed to save space */
+.project {
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: rgb(51, 155, 92); /* pick a color */
+    border-radius: 25%;
 }
 .contact {
     color:palevioletred;
