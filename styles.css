@@ -25,3 +25,11 @@ h1 {
     color:palevioletred;
     font-family: 'Courier New', Courier, monospace;
 }
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgb(15, 92, 30); 
+    display: block;
+    margin: auto;
+}
