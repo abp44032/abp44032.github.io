@@ -33,3 +33,13 @@ h1 {
     display: block;
     margin: auto;
 }
+.projects h2 {
+	width: 100%;
+}
+.project h3 {
+    margin-left: 50px;
+}
+.project p {
+    text-align: center;
+    margin: 15px;
+}
