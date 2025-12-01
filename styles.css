@@ -18,8 +18,8 @@ h1 {
     flex-wrap:wrap;
  } 
 .project {
-    width: 30%;
-    margin: 10px;
+    width: 20%;
+    margin: 5px;
     padding: 20px 10px;
     background: rgb(162, 57, 176); 
     border-radius: 25%;
