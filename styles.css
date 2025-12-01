@@ -1,5 +1,6 @@
 body {
 	background: rgb(242, 249, 143);
+    font-size: medium;
 }
 h1 {
 	color:rgb(77, 55, 141);
@@ -20,6 +21,7 @@ h1 {
 .project {
     width: 20%;
     margin: 5px;
+    height: fit-content;
     padding: 20px 10px;
     background: rgb(162, 57, 176); 
     border-radius: 25%;
