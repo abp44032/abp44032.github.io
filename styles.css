@@ -45,6 +45,7 @@ h1 {
 }
 .projects h2 {
 	width: 100%;
+    color: rgb(42, 0, 82);
 }
 .project h3 {
     text-align: center;
